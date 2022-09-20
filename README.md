@@ -13,6 +13,7 @@ https://lean-newsboy-e60.notion.site/Notion-to-Obsidian-API-automation-6a008b52e
    
 <br />
 <br />
+
 ## Notes
 
 - The python script ```Notion_API.py``` should be copied to the same folder where the note will be created.
